@@ -10,4 +10,3 @@
 ![](https://github.com/jopmas/gifs_EGU/blob/main/Shifted_Cratonic_Keel_Model.gif)
 
 ## Relative Movement of the Asthenosphere Model
-![](https://github.com/jopmas/gifs_EGU/blob/main/Rel_Mov_Ast_model_with_particles.gif)
